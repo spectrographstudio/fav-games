@@ -1,40 +1,67 @@
-# 🦾 Cyberpunk Game Gallery
+<!-- 💼 Modern Dark Mode GitHub Business Card -->
 
-Welcome to the neon-lit vault of legendary cyberpunk games. Step inside and explore pixel-perfect cityscapes, futuristic action, and thrilling adventures.
+<h1 align="center">🌙 Hey there, I'm <a href="https://yourwebsite.com">Your Name</a></h1>
+<h3 align="center">💻 [Your Role or Title] | 🚀 [Your Company or Project]</h3>
 
----
-
-## 🌆 Cyberpunk 2077
-![Cyberpunk City](https://img.freepik.com/free-photo/neon-sci-fi-city-night_23-2149072099.jpg)
-*A sprawling futuristic adventure packed with vibrant neon and deep stories.*
-
----
-
-## 🗡️ Ghostrunner
-![Futuristic Neon](https://img.freepik.com/free-photo/modern-futuristic-sci-fi-neon-urban_23-2149072101.jpg)
-*Parkour action in a cyberpunk dystopia. Fast, slick, challenging.*
-
----
-
-## 🥋 Katana ZERO
-![Retro City](https://img.freepik.com/free-photo/retro-futuristic-cityscape_1258-16006.jpg)
-*Sleek pixel art, time manipulation, and a gritty narrative in a neon-soaked world.*
+<p align="center">
+  <a href="https://linkedin.com/in/yourname">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## ✨ Why These Games?
-- Jaw-dropping neon visuals and cityscapes
-- Fast-paced, innovative gameplay
-- Memorable stories and atmosphere
+### 🧭 About Me
+> Passionate about [your focus area – e.g., AI, web apps, cloud systems].  
+> I love turning ideas into high-performance digital products.  
+
+- 🌱 Currently learning **[new tech or skill]**  
+- 🤝 Open to **collaboration and consulting projects**  
+- ⚡ Fun fact: **[something personal or lighthearted]**
 
 ---
 
-## 🖼️ More Cyberpunk Art
-Explore more images and inspiration:
-- ![Cyberpunk Poster](https://img.freepik.com/free-photo/cyberpunk-game-poster-template_1258-16007.jpg)
-- ![Futuristic Streets](https://img.freepik.com/free-photo/futuristic-streets-neon-lights_23-2149072102.jpg)
+### ⚙️ Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
 
 ---
 
-## 📬 Contact
-Got a cyberpunk game recommendation? [Email me!](mailto:your-email@example.com)
+### 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" height="160"/>
+</p>
+
+---
+
+### 📫 Connect With Me
+
+💼 **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+🌐 **Website:** [https://yourwebsite.com](https://yourwebsite.com)  
+📧 **Email:** [your@email.com](mailto:your@email.com)
+
+---
+
+### 🧾 Motto
+> “Code with purpose. Design with clarity. Deliver with passion.”
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Visitors"/>
+</p>
