@@ -15,16 +15,18 @@
        alt="Your Avatar"
        style="width: 90px; height: 90px; border-radius: 50%; margin-bottom: 15px; border: 2px solid #333;" />
 
-  <h1 style="color:#fff;">Your Name</h1>
-  <h3 style="color:#aaa;">💼 Your Role / Title</h3>
-  <p style="color:#777;">🚀 Your Company or Brand</p>
+
+
+  <h1 style="color:#fff;">OmissionAI</h1>
+ <!-- <h3 style="color:#aaa;">💼 Your Role / Title</h3> !-->
+  <p style="color:#777;">🚀Enviromentally Sustianable BlockChain</p>
 
   <hr style="border: none; border-top: 1px solid #333; margin: 20px 0;">
 
   <p style="line-height: 1.7;">
-    🌐 <a href="https://yourwebsite.com" style="color:#58a6ff;">yourwebsite.com</a><br>
-    📧 <a href="mailto:you@email.com" style="color:#58a6ff;">you@email.com</a><br>
-    📍 City, Country
+    🌐 <a href="https://yourwebsite.com](https://spectrographstudio.wixsite.com/omissionai" style="color:#58a6ff;">[www.omissionai.co.za]</a><br>
+    📧 <a href="mailto:you@email.com" style="color:#58a6ff;">spectrographstudio@gmail.com</a><br>
+    📍 South Africa
   </p>
 
   <hr style="border: none; border-top: 1px solid #333; margin: 20px 0;">
@@ -39,14 +41,14 @@
 
   <hr style="border: none; border-top: 1px solid #333; margin: 20px 0;">
 
-  <p>
+<!--  <p>
     <a href="https://linkedin.com/in/yourname">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
     </a>
     <a href="https://github.com/yourusername">
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
     </a>
-  </p>
+  </p> !-->
 
   <hr style="border: none; border-top: 1px solid #333; margin: 20px 0;">
 
