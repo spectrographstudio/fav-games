@@ -38,8 +38,6 @@
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp_Us-6D28D9?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2712032990)
 
-**We typically reply within minutes!** ⏱️
-
 </div>
 
   <hr style="border: none; border-top: 1px solid #333; margin: 20px 0;">
