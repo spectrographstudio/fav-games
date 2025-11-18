@@ -11,7 +11,7 @@
   text-align: center;
 ">
 
-  <img src="https://avatars.githubusercontent.com/yourusername"
+  <img src="36c17869-8912-4f37-bdb2-f58864f6f363.png"
        alt="Your Avatar"
        style="width: 90px; height: 90px; border-radius: 50%; margin-bottom: 15px; border: 2px solid #333;" />
 
@@ -19,26 +19,41 @@
 
   <h1 style="color:#fff;">OmissionAI</h1>
  <!-- <h3 style="color:#aaa;">💼 Your Role / Title</h3> !-->
-  <p style="color:#777;">🚀Enviromentally Sustianable BlockChain</p>
+  <p style="color:#777;"> 🌻Enviromentally Sustianable BlockChain 🌷</p>
 
   <hr style="border: none; border-top: 1px solid #333; margin: 20px 0;">
-
+  
+## 🌐 Connect With Us
   <p style="line-height: 1.7;">
-    🌐 <a href="https://yourwebsite.com](https://spectrographstudio.wixsite.com/omissionai" style="color:#58a6ff;">[www.omissionai.co.za]</a><br>
-    📧 <a href="mailto:you@email.com" style="color:#58a6ff;">spectrographstudio@gmail.com</a><br>
+    <a href="https://spectrographstudio.wixsite.com/omissionai" style="color:#58a6ff;">www.omissionai.co.za</a><br>
     📍 South Africa
   </p>
+<div align="center">
+
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=social&logo=gmail&logoColor=white)](mailto:spectrographstudio@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white)](https://linkedin.com/in/spectrographstudio)
+
+</div>
+
+<div align="center">
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp_Us-6D28D9?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2712032990)
+
+**We typically reply within minutes!** ⏱️
+
+</div>
 
   <hr style="border: none; border-top: 1px solid #333; margin: 20px 0;">
 
-  <div>
+ <!-- <div>
     <span style="display:inline-block; background:#1f1f1f; padding:6px 10px; border-radius:8px; margin:3px;">Python</span>
     <span style="display:inline-block; background:#1f1f1f; padding:6px 10px; border-radius:8px; margin:3px;">React</span>
     <span style="display:inline-block; background:#1f1f1f; padding:6px 10px; border-radius:8px; margin:3px;">Node.js</span>
     <span style="display:inline-block; background:#1f1f1f; padding:6px 10px; border-radius:8px; margin:3px;">AWS</span>
     <span style="display:inline-block; background:#1f1f1f; padding:6px 10px; border-radius:8px; margin:3px;">Docker</span>
   </div>
-
+!-->
   <hr style="border: none; border-top: 1px solid #333; margin: 20px 0;">
 
 <!--  <p>
