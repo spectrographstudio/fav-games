@@ -15,8 +15,6 @@
        alt="Your Avatar"
        style="width: 90px; height: 90px; border-radius: 50%; margin-bottom: 15px; border: 2px solid #333;" />
 
-
-
   <h1 style="color:#fff;">OmissionAI</h1>
  <!-- <h3 style="color:#aaa;">💼 Your Role / Title</h3> !-->
   <p style="color:#777;"> 🌻Enviromentally Sustianable BlockChain 🌷</p>
